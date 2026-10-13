@@ -1,0 +1,19 @@
+{
+  "name": "jeetx-studio-portfolio",
+  "version": "1.0.0",
+  "description": "Jeet Dutta — Independent Web Developer & Creator at JeetX Studio portfolio website",
+  "main": "serve.js",
+  "scripts": {
+    "start": "node serve.js",
+    "dev": "node serve.js"
+  },
+  "keywords": [
+    "portfolio",
+    "web-developer",
+    "jeetx-studio",
+    "tailwindcss",
+    "frontend"
+  ],
+  "author": "Jeet Dutta",
+  "license": "MIT"
+}
